@@ -1,4 +1,4 @@
-movie-recommender-mvp
+# movie-recommender-mvp
 
 This is a simple Collaborative Filtering-based Movie Recommendation App built using Python, Pandas, Scikit-learn, and Streamlit. It utilizes the MovieLens 100k dataset to provide item-based movie recommendations to users based on their past ratings.
 
